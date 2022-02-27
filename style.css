@@ -1,0 +1,96 @@
+
+*{margin:0;
+ padding: 0;}
+
+
+   
+
+header {
+    width: 100%;
+    overflow: hidden;
+    background-color: rgb(59, 20, 20);
+   
+}
+
+.wrapper{
+    width: 90%;
+    max-width: 1000px;
+    margin: 1px;
+    padding-left: 0.1cm;
+    }
+
+
+.logo {
+    margin-right: 200px;
+    float:left
+      
+
+}
+header nav {
+	float: ringht;
+    margin-inline-start: 80%;
+    padding-block-start: 10px;
+
+	
+}
+
+.banner {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 12px;
+    width: 98%;
+    height: 400px;
+}
+
+.fotoperfil{
+    width: 10%;  
+    border-radius: 150%;
+    border: solid #4bcffa;    
+    margin-top: -2cm;
+    margin-left: 1cm; 
+}
+
+header nav a {
+	display: inline;
+	color: rgb(197, 34, 34);
+	margin-bottom: 10cm;
+    padding-left: 10px ;
+    padding-right: 20px;
+
+    
+.icon-github {
+    
+
+ nav a:hover 
+   
+     padding: 10px 30px
+
+     }
+
+     .acerca {
+
+       
+        border-radius: 10px;
+        margin: 1em;
+        margin-top: 1cm;  
+        padding: 10px;
+        background-color: #fff;
+        
+    
+    }
+    
+    .de {
+    
+        margin-left: 0.5cm;
+        color: #4bcffa;
+
+
+}
+   
+Instagram{
+    margin-left: 1000px;
+}
+.nav redes sociales github{
+  margin: 300px;
+
+}
